@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>GIT_GITHUB_project</title>
+</head>
+<body>
+<div>
+A repository is a repository used to organize a project. 
+The repository can contain folders and files (images, videos, tables with data).
+</div>
+</body>
+</html>
